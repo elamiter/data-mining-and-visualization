@@ -1,5 +1,5 @@
 # Gapminder Animated Scatterplot
-**This project is about data-visualisation:**
+**This project is about data-visualization:**
 ## 1. Reading 'csv' and 'excel' files into Pandas DataFrame
  - `pd.read_csv()`, `pd.read_excel()`
 ## 2. Data wrangling and cleaning
@@ -9,7 +9,7 @@
     -  `df.melt()`
  - Merge tables
     - `df.merge(df2_to_be_merged_into_df1)`
-## 3. Data Visualisation
+## 3. Data Visualization
  - Seaborn 
  - Matplotlib
     
