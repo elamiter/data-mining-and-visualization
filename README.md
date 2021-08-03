@@ -1,5 +1,11 @@
 # Gapminder Animated Scatterplot
 **This project is about data-visualization:**
+### Technologies and Libraries
+- Python 3.8
+- pandas
+- seaborn
+- matplotlib
+- imageio
 ## 1. Reading 'csv' and 'excel' files into Pandas DataFrame
  - `pd.read_csv()`, `pd.read_excel()`
 ## 2. Data wrangling and cleaning
